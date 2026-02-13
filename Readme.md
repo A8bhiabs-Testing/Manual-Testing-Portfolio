@@ -31,5 +31,10 @@ The following areas were tested:
 - Manual testing techniques
 - GitHub for version control and documentation
 
+## Defect Reporting
+- Identified and documented defects with clear reproduction steps
+- Included severity and priority to support release decisions
+- Focused on user experience and error handling
+
 ## Status
 In Progress – additional scenarios and features will be added
